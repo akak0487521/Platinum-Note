@@ -24,8 +24,8 @@
   - [ ]Finish Chapter 3 of the Golden Poem Arc on Hard Difficulty
 - [x]A Ft./Fl. Dragon Crest
   - [x]Finish Chapter 4 of the Flame Poem Arc on Very Hard Difficulty
-- [ ]A Pn./Lt. Dragon Crest
-  - [ ]Finish Chapter 7 of the Dawn Arc on Hard Difficulty with an EX Rank
+- [x]A Pn./Lt. Dragon Crest
+  - [x]Finish Chapter 7 of the Dawn Arc on Hard Difficulty with an EX Rank
 - [ ]A Mage's Silver Staff
   - [ ]Finish Chapter 3 of the Orchid Poem Arc on Hard Difficulty
 - [ ]A Thief Mask
