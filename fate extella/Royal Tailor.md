@@ -22,8 +22,8 @@
   - [ ]Finish Chapter 1 of the Orchid Poem Arc on Very Hard Difficulty
 - [ ]A Flag of Guidance
   - [ ]Finish Chapter 3 of the Golden Poem Arc on Hard Difficulty
-- [ ]A Ft./Fl. Dragon Crest
-  - [ ]Finish Chapter 4 of the Flame Poem Arc on Very Hard Difficulty
+- [x]A Ft./Fl. Dragon Crest
+  - [x]Finish Chapter 4 of the Flame Poem Arc on Very Hard Difficulty
 - [ ]A Pn./Lt. Dragon Crest
   - [ ]Finish Chapter 7 of the Dawn Arc on Hard Difficulty with an EX Rank
 - [ ]A Mage's Silver Staff
@@ -55,8 +55,8 @@
   - [ ]Finish Chapter 1of the Orchid Poem Arc on Very Hard Difficulty
 - [ ]EX Angel's Haori
   - [ ]Finish Chapter 4 of the Orchid Poem Arc on Very Hard Difficulty
-- [ ]EX Ceremonial Sword
-  - [ ]Finish Chapter 2 of the Flame Poem Arc on Very Hard Difficulty
+- [x]EX Ceremonial Sword
+  - [x]Finish Chapter 2 of the Flame Poem Arc on Very Hard Difficulty
 - [ ]EX Flag of Guidance
   - [ ]Finish Chapter 4 of the Dawn Arc on Very Hard Difficulty
 - [ ]EX Hyper Cube of Chaos
