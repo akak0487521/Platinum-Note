@@ -1,0 +1,107 @@
+- [ ]B Poison Flame D.'s Scale
+  - [ ]Finish Chapter 2 of the Orchid Poem Arc on Hard Difficulty
+- [ ]B Lightning Snow D.'s Scale
+  - [ ]Finish Chapter 3 of the Orchid Poem Arc on Hard Difficulty
+- [ ]B Dragon Heart
+  - [ ]Finish all side missions of Artoria Pendragon.
+- [ ]B Spirit Tesseract
+  - [ ]Finish Chapter 6 of the Golden Poem Arc on Normal Difficulty with an EX Rank
+- [x]A Cohort's Mantle
+  - [x]Finish Chapter 4 of the Flame Poem Arc on Hard Difficulty
+- [ ]A Cohort's Haori
+  - [ ]Finish Chapter 2 of the Dawn Arc on Hard Difficulty
+- [ ]A Cohort's Banner
+  - [ ]Finish Chapter 2 of the Orchid Poem Arc on Hard Difficulty
+- [x]A Cohort's Ceremonial Sword
+  - [x]Finish Chapter 5 of the Dawn Arc on Hard Difficulty
+- [ ]A King's Mantle
+  - [ ]Finish Chapter 5 of the Flame Poem Arc on Hard Difficulty
+- [ ]A Angel's Haori
+  - [ ]Finish Chapter 1 of the Orchid Poem Arc on Hard Difficulty
+- [ ]A Ceremonial Sword
+  - [ ]Finish Chapter 1 of the Orchid Poem Arc on Very Hard Difficulty
+- [ ]A Flag of Guidance
+  - [ ]Finish Chapter 3 of the Golden Poem Arc on Hard Difficulty
+- [ ]A Ft./Fl. Dragon Crest
+  - [ ]Finish Chapter 4 of the Flame Poem Arc on Very Hard Difficulty
+- [ ]A Pn./Lt. Dragon Crest
+  - [ ]Finish Chapter 7 of the Dawn Arc on Hard Difficulty with an EX Rank
+- [ ]A Mage's Silver Staff
+  - [ ]Finish Chapter 3 of the Orchid Poem Arc on Hard Difficulty
+- [ ]A Thief Mask
+  - [ ]Finish Chapter 3 of the Dawn Arc on Hard Difficulty
+- [ ]A Defender's Great Shield
+  - [ ]Start a New Game in the Golden Poem Arc on Hard Difficulty and finish the Chapter 1. Do not use Chapter Select.
+- [ ]A Awakening Ring
+  - [ ]Finish Chapter 5 of the Golden Poem Arc on Hard Difficulty with an EX Rank
+- [ ]A Cohort's Spirit Stone
+  - [ ]Finish Chapter 6 of the Golden Poem Arc on Normal Difficulty with an EX Rank
+- [ ]A Moonlight Pendant
+  - [ ]Finish Chapter 6 of the Golden Poem Arc on Normal Difficulty
+- [ ]A Rusty Holy Sword
+  - [ ]Finish Chapter 3 of the Orchid Poem Arc on Hard Difficulty with an EX Rank
+- [ ]A Cohort's Alexandrite
+  - [ ]Finish Chapter 3 of the Orchid Poem Arc on Very Hard Difficulty
+- [ ]A Mercury Catalyst
+  - [ ]Finish Chapter 2 of the Golden Poem Arc on Any Difficulty
+- [ ]EX Cohort's Haori
+  - [ ]Finish Chapter 1 of the Dawn Arc on Very Hard Difficulty
+- [ ]EX Cohort's Banner
+  - [ ]Start a New Game in Golden Poem Arc on Very Hard 
+  - [ ]clear the first stage.
+- [ ]EX Cohort's Ceremonial Sword
+  - [ ]Finish Chapter 4 of the Flame Poem Arc on Very Hard Difficulty
+- [ ]EX King's Mantle
+  - [ ]Finish Chapter 1of the Orchid Poem Arc on Very Hard Difficulty
+- [ ]EX Angel's Haori
+  - [ ]Finish Chapter 4 of the Orchid Poem Arc on Very Hard Difficulty
+- [ ]EX Ceremonial Sword
+  - [ ]Finish Chapter 2 of the Flame Poem Arc on Very Hard Difficulty
+- [ ]EX Flag of Guidance
+  - [ ]Finish Chapter 4 of the Dawn Arc on Very Hard Difficulty
+- [ ]EX Hyper Cube of Chaos
+  - [ ]Finish Chapter 2 of the Golden Poem Arc on Very Hard Difficulty
+- [ ]EX Spirit Tesseract
+  - [ ]Finish Chapter 6 or 7 of the Golden Poem Arc on Hard Difficulty
+- [ ]EX Thief Mask
+  - [ ]Finish Chapter 1 of the Flame Poem Arc on Very Hard Difficulty with an EX Rank
+- [ ]EX Double-Edged Holy Sword
+  - [ ]Finish Chapter 1 or 3 of the Orchid Poem Arc on Very Hard Difficulty
+- [ ]EX Aurora Spirit Stone
+  - [ ]Finish Chapter 9 of the Dawn Arc on Very Hard Difficulty with an EX Rank
+- [ ]EX Obliteration Prism
+  - [ ]Finish Chapter 7 of the Golden Poem Arc on Very Hard Difficulty with an EX Rank
+- [ ]EX Conqueror's Great Sword
+  - [ ]Finish Chapter 7 of the Golden Poem Arc on Very Hard Difficulty with an EX Rank
+- [ ]A Bay Leaf Veil
+  - [ ]Raise Bond with Nero to 30.
+- [ ]A Shard of Cruel Stone
+  - [ ]Raise Bond with Tamamo to 30.
+- [ ]A Muddy Sword
+  - [ ]Raise Bond with Altera to 30.
+- [ ]A Rusty Illusion
+  - [ ]Raise Bond with Unknown to 30.
+- [ ]A Scrap of Gi
+  - [ ]Raise Bond with Li Shuwen to 30.
+- [ ]A Crest of the Sun
+  - [ ]Raise Bond with Gawain to 30.
+- [ ]A Rune Stone Earring
+  - [ ]Raise Bond with Cu Chulainn to 30.
+- [ ]A Transfusion Pack
+  - [ ]Raise Bond with Elizabeth to 30.
+- [ ]A Wheel of Surya
+  - [ ]Raise Bond with Karna to 30.
+- [ ]A Horseshoe of Red Hare
+  - [ ]Raise Bond with Lu Bu to 30.
+- [ ]A Old Mirror
+  - [ ]Raise Bond with Medusa to 30.
+- [ ]A Trade Lettters
+  - [ ]Raise Bond with Archimedes to 30.
+- [ ]A Conqueror's Mantle Piece
+  - [ ]Raise Bond with Iskandar to 30.
+- [ ]A Sheath of the Holy Sword
+  - [ ]Raise Bond with Artoria to 30.
+- [ ]A Ancient Snake Skin
+  - [ ]Raise Bond with Gilgamesh to 30.
+- [ ]A Holy Flag of Salvation
+  - [ ]Raise Bond with Jeanne to 30.
