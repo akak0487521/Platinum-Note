@@ -1,0 +1,4 @@
+- [ ] Flame Poem Arc 4th stage sector D
+- [ ] Orchid Poem Arc 2nd stage sector J
+- [x] Golden Poem Arc 3rd stage sector H
+- [ ] Dawn Arc 5th stage sector E
